@@ -1,5 +1,5 @@
 name             'osx-package'
-maintainer       'YOUR_NAME'
+maintainer       'asys'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
 description      'Installs/Configures osx-package'
